@@ -59,8 +59,8 @@ C:\msys64\ucrt64\bin
 4. **Path** kısmını açın → **Yeni (New)** seçeneğine tıklayın.
 5. Kopyaladığınız yolu buraya yapıştırın ve **Tamam** diyerek çıkın.
 
-![Ortam değişkeni ayarları](/images/path.pngpng)
-![Ortam değişkeni ayarları](/images/pathekleme.pngpng)
+![Ortam değişkeni ayarları](/images/path.png)
+![Ortam değişkeni ayarları](/images/pathekleme.png)
 
 ---
 
@@ -73,7 +73,7 @@ gcc --version
 ```
 
 Eğer her şey doğruysa aşağıdakine benzer bir çıktı görmelisiniz 👇  
-![GCC versiyon kontrolü](/images/cmd.pngpng)
+![GCC versiyon kontrolü](/images/cmd.png)
 
 ---
 
