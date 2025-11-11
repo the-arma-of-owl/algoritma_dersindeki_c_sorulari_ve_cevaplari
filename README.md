@@ -10,7 +10,7 @@ Bu rehberde, **Visual Studio Code** üzerinde **C dili** programlarını çalı�
 
 > ⚠️ Kurulum sırasında **programın kurulum yolunu değiştirmeyin**.
 
-![MSYS2 web sitesi](/images/msyssite.pngpng)  
+![MSYS2 web sitesi](/images/msyssite.png)  
 ![MSYS2 kurulum ekranı](/images/dosyayolu.png)
 
 ---
